@@ -16,9 +16,19 @@ html,body {
 
 #btn {
   font-size: 2em;
+  background: white;
 }
 
 #btn::after {
   content: "▶";
   color: red;
 }
+
+#disp1{
+  font-family: fantasy;
+  font-size: x-large;
+  background-color: lightgrey;
+}
+
+
+
